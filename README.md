@@ -1,3 +1,10 @@
+Notes finales : 
+
+- Valentin : 11.5/20
+- Valentin : 11.5/20
+- Thomas : 11.5/20
+
+
 # suivi-datacamp
 Les points hebdomadaires se feront sur ce README.md
 
